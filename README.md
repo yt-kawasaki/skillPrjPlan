@@ -41,6 +41,13 @@
   * リポジトリ上には、ID、パスワード等の情報は、登録しない
     
 
+## [入力項目](/Doc/input.md)
+
+## [テーブル一覧](/Doc/table.md)
+
+## [検索機能](/Doc/search.md)
+
 【補足】
+
 * [今さら聞けない！GitHubの使い方【超初心者向け】](https://techacademy.jp/magazine/6235)
 * お勧めMarkdown編集ソフト[Typora](https://typora.io/)
