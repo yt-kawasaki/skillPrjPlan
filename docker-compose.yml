@@ -1,0 +1,15 @@
+version: '3'
+services:
+  laravel:
+    image: centos:7
+    container_name: job_laravel
+    restart: always
+    ports:
+      - 8080:80
+
+  mysql:
+    image: mysql:5.7
+    container_name: job_mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: my-secret-pw
