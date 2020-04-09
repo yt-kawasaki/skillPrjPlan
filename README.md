@@ -47,6 +47,8 @@
 
 ## [検索機能](/Doc/search.md)
 
+## [出力印刷機能](/Doc/print.md)
+
 【補足】
 
 * [今さら聞けない！GitHubの使い方【超初心者向け】](https://techacademy.jp/magazine/6235)
